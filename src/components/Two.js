@@ -19,9 +19,10 @@ const Two = props => (
           <p>A Journey to Self-Love through Cleansing</p>
         </header>
         <p>
-          The ultimate gift you can give yourself is the gift of feeling your best.
-          Your greatest potential is right around the corner. This cleanse is here to help
-          you get rid of the unhealthy habits and start a positive momentum for your future.
+          Love thyself to know thyself.
+          Cacao is also supporting how we treat ourselves.
+          Loving ourselves is part of being human.
+
         </p>
         <ul className="actions">
           <li>

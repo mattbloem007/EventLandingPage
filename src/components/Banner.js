@@ -12,9 +12,11 @@ const Banner = props => (
       <br/>
       <header>
         <p>
-          Feel good, Look good, Do Good
+          28 January - 11 February
           <br />
-          Step into your BEST self.
+          Group Cleanse with ixCacao
+          <br />
+          Two weeks of gentle healing
         </p>
       </header>
     </div>
