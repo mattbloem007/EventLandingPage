@@ -1,7 +1,7 @@
 module.exports = {
   //pathPrefix: `/mygatsby`,
   siteMetadata: {
-    title: 'Group Cleanse 2020',
+    title: 'Group Cleanse 2021',
     author: 'Matthew Gabriel',
     description: 'An Information website on the upcoming Group Cleanse',
     menuLinks: [

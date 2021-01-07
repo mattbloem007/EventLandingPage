@@ -61,7 +61,7 @@ const Four = props => (
         <footer className="major">
           <ul className="actions special">
             <li>
-              <a target="_blank" href="http://41.185.8.137/~xic02/alchemyofremembrance/" className="button">
+              <a target="_blank" href="https://shop.alchemyremember.me/product/group-cleanse-2020/" className="button">
                 Sign Me Up to the 2 week Detox
               </a>
             </li>
